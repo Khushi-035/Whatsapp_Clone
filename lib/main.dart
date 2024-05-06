@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:flutterwhatsappclone_master/whatsapp_home.dart';
+import 'package:flutterwhatsappclone/whatsapp_home.dart';
 
 late List<CameraDescription> cameras;
 
